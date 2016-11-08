@@ -3,9 +3,11 @@
 Slides, code, images and data for a talk on graphics for the Department of Mental Health Doctoral Seminar.
 
 
-## Data for the example
+## Data for the examples
 
-* R format: _iris.Rdata_
+* Stata format for the initial example on _x_: _x.dta_
+* R format for the [shinycsv](https://jhubiostatistics.shinyapps.io/shinycsv/) example: _iris.Rdata_
+
 
 ## Data for the exercise
 
