@@ -1,5 +1,5 @@
 // Change to the directory where I have the data
-cd "/Users/lcollado/Dropbox/LIBD/Talks/2016-11-09 graphics/"
+cd "/Users/lcollado/Dropbox/Code/graphics_2016_11_09/"
 
 // Load x example data replacing anything I have on my session
 use "x.dta", clear
